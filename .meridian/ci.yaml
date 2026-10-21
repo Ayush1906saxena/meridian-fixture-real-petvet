@@ -1,0 +1,4 @@
+{
+  "pack": "java-maven",
+  "test": "mvn -B -s /opt/meridian/settings.xml test"
+}
